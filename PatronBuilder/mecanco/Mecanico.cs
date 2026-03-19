@@ -43,6 +43,8 @@ namespace PatronBuilder.mecanco
             _ImodeloSedan.tipoMotor("Gasolina");
             _ImodeloSedan.color("Aranjado fosforo 23");
             _ImodeloSedan.NumeroPuertas(2);
+            _ImodeloSedan.numeroDePasajero(2);
+            
         }
 
     }

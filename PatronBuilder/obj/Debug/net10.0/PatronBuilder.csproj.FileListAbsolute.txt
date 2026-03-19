@@ -1,0 +1,15 @@
+D:\EjemplobuiderG2\PatronBuilder\bin\Debug\net10.0\PatronBuilder.exe
+D:\EjemplobuiderG2\PatronBuilder\bin\Debug\net10.0\PatronBuilder.deps.json
+D:\EjemplobuiderG2\PatronBuilder\bin\Debug\net10.0\PatronBuilder.runtimeconfig.json
+D:\EjemplobuiderG2\PatronBuilder\bin\Debug\net10.0\PatronBuilder.dll
+D:\EjemplobuiderG2\PatronBuilder\bin\Debug\net10.0\PatronBuilder.pdb
+D:\EjemplobuiderG2\PatronBuilder\obj\Debug\net10.0\PatronBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjemplobuiderG2\PatronBuilder\obj\Debug\net10.0\PatronBuilder.AssemblyInfoInputs.cache
+D:\EjemplobuiderG2\PatronBuilder\obj\Debug\net10.0\PatronBuilder.AssemblyInfo.cs
+D:\EjemplobuiderG2\PatronBuilder\obj\Debug\net10.0\PatronBuilder.csproj.CoreCompileInputs.cache
+D:\EjemplobuiderG2\PatronBuilder\obj\Debug\net10.0\PatronBuilder.sourcelink.json
+D:\EjemplobuiderG2\PatronBuilder\obj\Debug\net10.0\PatronBuilder.dll
+D:\EjemplobuiderG2\PatronBuilder\obj\Debug\net10.0\refint\PatronBuilder.dll
+D:\EjemplobuiderG2\PatronBuilder\obj\Debug\net10.0\PatronBuilder.pdb
+D:\EjemplobuiderG2\PatronBuilder\obj\Debug\net10.0\PatronBuilder.genruntimeconfig.cache
+D:\EjemplobuiderG2\PatronBuilder\obj\Debug\net10.0\ref\PatronBuilder.dll

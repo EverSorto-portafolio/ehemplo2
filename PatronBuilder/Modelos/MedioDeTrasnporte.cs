@@ -28,7 +28,7 @@ namespace PatronBuilder.Modelos
         // saltara a la siguiente linea sin cortar el proceso que muestra
         //en pantalla
         public void Mostrar() {
-            Console.WriteLine($"El auto debe tener {tipoCarroceria} tipo de carroceria c" +
+            Console.WriteLine($"El auto debe tener {tipoCarroceria} tipo de carroceria  \n" +
                 $"El auto debe tener almenos {NumeroPuertas} numeroPuertas \n" +
                 $"el auto motor del auto debe ser {tipoMotor} \n" +
                 $"El auto debe poder llevar almenos {numeroDePasajero} numeor de pasajeros \n" +
