@@ -32,13 +32,13 @@ namespace PatronBuilder.PlanoDeAuto
         // es una variable que tene sub dominio donde se ejecuta codigo. 
         // ; indica al procesado que finaliza la instruccion y puede dar un salto de linea
 
-        void NumeroPuertas();
+        void NumeroPuertas(int numeroPuertas);
         // como no va a devolver algo no tiene un return 
         // lo definimos como void 
 
-        void numeroDePasajero();
-        void tipoMotor();
-        void color();
+        void numeroDePasajero( int NumeroPasajeros);
+        void tipoMotor(string tipoDeMotor);
+        void color(string color);
     }
 }
 
